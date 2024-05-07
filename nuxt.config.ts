@@ -17,7 +17,7 @@ export default defineNuxtConfig({
       theme_color: "#000000",
       background_color: "#ffffff",
       display: "standalone",
-      start_url: "/",
+      start_url: "/home",
       icons: [
         {
           src: 'pwa-192x192.png',
